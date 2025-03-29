@@ -15,8 +15,9 @@ I am currently learning <b>ROS2, Deep Learning and Artificial Intelligence</b> a
 A new programming language that I am learning now is: <b>Rust</b> (2025)
 
 
+Working on improving these stats:
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=raochinmay&show_icons=true&theme=radical" />
+ <!--<img class="img" src="https://github-readme-stats.vercel.app/api?username=raochinmay&show_icons=true&theme=radical" />-->
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raochinmay&theme=radical&layout=compact" />
 </div>
 
